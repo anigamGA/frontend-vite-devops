@@ -18,7 +18,7 @@ const Home = () => {
                     <div className="logo">
                         <span className="logo-text">Design</span>
                         
-                        <span className="logo-accent">Studio</span>
+                        <span className="logo-accent">Studio XD</span>
                     </div>
                     <ul className="nav-links">
                         <li><a href="#home">Home</a></li>
